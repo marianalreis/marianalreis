@@ -35,7 +35,7 @@
 
 ###
 
-<p align="center">My buddy bruna's github</p>
+<p align="center">My buddy Bruna's github</p>
 
 ###
 
