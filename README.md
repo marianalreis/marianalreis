@@ -26,7 +26,11 @@
 
 ###
 
-<p align="left">I'm a student at [inteli](https://www.inteli.edu.br) 💜 - Institute of technology and leadership.<br><br>- ❤️ I love technology and mathematics, as well as developing group projects and solving real-world problems<br>- 🎯 One of my life goals is to use technology to solve problems related to nutrition<br>- 📚 I'm studying my first year of software engineering<br>- ⚡ In my free time I like watching football⚽, going to the gym🏋️‍♀️ and spending time with family and friends, I also love traveling✈️ <br>-💛 My Inteli buddy is Bruna</p>
+<h3 align="left"></h3>
+
+###
+
+<p align="left">I'm a student at Inteli💜 - Institute of technology and leadership.<br><br>- ❤️ I love technology and mathematics, as well as developing group projects and solving real-world problems<br>- 🎯 One of my life goals is to use technology to solve problems related to nutrition<br>- 📚 I'm studying my first year of software engineering<br>- ⚡ In my free time I like watching football⚽, going to the gym🏋️‍♀️ and spending time with family and friends, I also love traveling✈️.<br>-💛 My Inteli buddy is Bruna</p>
 
 ###
 
@@ -34,17 +38,43 @@
 
 ###
 
-<div align="left">
-</div>
-
-###
-
-<h3 align="left"></h3>
+<p align="center">My buddy bruna's github</p>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://pt.vecteezy.com/arte-vetorial/38057764-fofa-astronauta-jogando-futebol-desenho-animado-vetor-icone-ilustracao-tecnologia-esporte-icone-conceito-isolado-premio-vetor-plano-desenho-animado-estilo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="github logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://static.vecteezy.com/ti/vetor-gratis/p1/38057764-fofa-astronauta-jogando-futebol-desenho-animado-icone-ilustracao-tecnologia-esporte-icone-conceito-isolado-premio-plano-desenho-animado-estilo-vetor.jpg"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/marianalreis/count.svg?"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/marianalreis/marianalreis/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marianalreis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marianalreis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/13dmtti5dtlu69ondn414nh4j">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=13dmtti5dtlu69ondn414nh4j&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
