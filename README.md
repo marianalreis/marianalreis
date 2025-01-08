@@ -32,9 +32,6 @@
 
 <p align="left">I'm a student at Inteli💜 - Institute of technology and leadership.<br><br>- ❤️ I love technology and mathematics, as well as developing group projects and solving real-world problems<br>- 🎯 One of my life goals is to use technology to solve problems related to nutrition<br>- 📚 I'm studying my first year of software engineering<br>- ⚡ In my free time I like watching football⚽, going to the gym🏋️‍♀️ and spending time with family and friends, I also love traveling✈️.<br>-💛 My Inteli buddy is Bruna</p>
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
