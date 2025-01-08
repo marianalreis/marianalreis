@@ -40,7 +40,7 @@
 ###
 
 <div align="center">
- <a ref="https://www.instagram.com/mariilaacerda/" target="_blank" >
+ <a href="https://github.com/bruuna-brasil?tab=repositories" target="_blank" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="github logo"  />
  </a>
 </div>
