@@ -49,16 +49,12 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://static.vecteezy.com/ti/vetor-gratis/p1/38057764-fofa-astronauta-jogando-futebol-desenho-animado-icone-ilustracao-tecnologia-esporte-icone-conceito-isolado-premio-plano-desenho-animado-estilo-vetor.jpg"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://profile-counter.glitch.me/marianalreis/count.svg?"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/marianalreis/marianalreis/output/snake.svg" alt="Snake animation" />
 
