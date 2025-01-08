@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://1drv.ms/i/c/74c3f90ce1faa9cd/EbfUCl01RnNGrC6iZfAJDdwB-yYyQHq5AEsN5v5LBrCskw?e=otoAzm"  />
+  <img height="150" src="https://i.ibb.co/5rphKcX/IMG-7844.jpg[/img][/url"  />
 </div>
 
 ###
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm a student at Inteli - Institute of technology and leadership- and I'm passionate about technology and mathematics.<br><br>- 🔭 I’m in the first year of the course<br>- 📚 I'm  studying software engineering<br>- ⚡ In my free time I like watching football, going to the gym and spending time with family and friends, I also love traveling.<br>- My Inteli buddy is Bruna</p>
+<p align="left">I'm a student at Inteli💜 - Institute of technology and leadership- and I'm passionate about technology and mathematics.<br><br>- 🔭 I’m in the first year of the course<br>- 📚 I'm  studying software engineering<br>- ⚡ In my free time I like watching football⚽, going to the gym🏋️‍♀️ and spending time with family and friends, I also love traveling✈️.<br>-💛 My Inteli buddy is Bruna</p>
 
 ###
 
