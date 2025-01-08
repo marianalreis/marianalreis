@@ -44,7 +44,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://static.vecteezy.com/ti/vetor-gratis/p1/38057764-fofa-astronauta-jogando-futebol-desenho-animado-icone-ilustracao-tecnologia-esporte-icone-conceito-isolado-premio-plano-desenho-animado-estilo-vetor.jpg"  />
+  <img height="200" src="https://images.app.goo.gl/oxse2Xvga7xGfdRq8"  />
 </div>
 
 ###
