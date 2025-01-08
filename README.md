@@ -51,11 +51,6 @@
   <img src="https://profile-counter.glitch.me/marianalreis/count.svg?"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/marianalreis/marianalreis/output/snake.svg" alt="Snake animation" />
 
 ###
 
