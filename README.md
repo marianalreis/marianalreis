@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm a student at Inteli💜 - Institute of technology and leadership.<br><br>- ❤️ I love technology and mathematics, as well as developing group projects and solving real-world problems<br>- 🎯 One of my life goals is to use technology to solve problems related to nutrition<br>- 📚 I'm studying my first year of software engineering<br>- ⚡ In my free time I like watching football⚽, going to the gym🏋️‍♀️ and spending time with family and friends, I also love traveling✈️.<br>-💛 My Inteli buddy is Bruna, a third year software engineering student.</p>
+<p align="left">Hello World! I'm Mariana Lacerda Reis, I'm 18 years old and from São Paulo. I studied for 13 years at Fundação Bradesco and now I'm a student at Inteli💜 - Institute of technology and leadership.<br><br>- ❤️ I love technology and mathematics, as well as developing group projects and solving real-world problems<br>- 🎯 One of my life goals is to use technology to solve problems related to nutrition<br>- 📚 I'm studying my first year of software engineering<br>- ⚡ In my free time I like watching football⚽, going to the gym🏋️‍♀️ and spending time with family and friends, I also love traveling✈️.<br>-💛 My Inteli buddy is Bruna, a third year software engineering student.</p>
 
 
 ###
@@ -61,10 +61,3 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/13dmtti5dtlu69ondn414nh4j">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=13dmtti5dtlu69ondn414nh4j&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
